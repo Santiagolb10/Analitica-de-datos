@@ -1,9 +1,9 @@
 # Analitica_de_datos
 Acercamiento a herramientas de analitica de negocios como Power BI, SQL, Phyton y R
-# Hola mundo 1
-## Hola mundo 2
-### Hola mundo 3
-#### Hola mundo 4
+# Eyyyyy que más
+## Soy Santi Londoño
+### UEC
+#### De bogotá al mundo
 ##### Hola mundo 5
 ###### Hola mundo 6
 
