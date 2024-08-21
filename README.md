@@ -13,6 +13,5 @@ Acercamiento a herramientas de analitica de negocios como Power BI, SQL, Phyton 
 [uext] (www.uexternado.edu.co)
 
 
-
-[calor](![1f975](https://github.com/user-attachments/assets/46f16da8-6488-42e6-b998-43c402f35d7f)
+(![1f975](https://github.com/user-attachments/assets/46f16da8-6488-42e6-b998-43c402f35d7f)
 
