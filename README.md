@@ -8,4 +8,11 @@ Acercamiento a herramientas de analitica de negocios como Power BI, SQL, Phyton 
 ###### Hola mundo 6
 
 
-**Este es mi primer repositorio**
+# **Este es mi primer repositorio en GITHUB**
+*Administración de empresas*
+[uext] (www.uexternado.edu.co)
+
+
+
+[calor](![1f975](https://github.com/user-attachments/assets/46f16da8-6488-42e6-b998-43c402f35d7f)
+
