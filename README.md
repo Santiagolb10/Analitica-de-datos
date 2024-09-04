@@ -10,6 +10,7 @@ Acercamiento a herramientas de analitica de negocios como Power BI, SQL, Phyton 
 
 # **Este es mi primer repositorio en GITHUB**
 *Administración de empresas*
+
 [Santiago's Linkedin] (www.linkedin.com/in/santiagolondono03)
 
 
