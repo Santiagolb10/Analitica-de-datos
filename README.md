@@ -14,5 +14,6 @@ Acercamiento a herramientas de analitica de negocios como Power BI, SQL, Phyton 
 [Santiago's Linkedin] (www.linkedin.com/in/santiagolondono03)
 
 
-(![1f975](https://github.com/user-attachments/assets/46f16da8-6488-42e6-b998-43c402f35d7)
+(![descarga](https://github.com/user-attachments/assets/a7dd3bb2-f102-47c3-81bc-f468931b9401)
+
 
