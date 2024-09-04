@@ -1,11 +1,11 @@
 # Analitica_de_datos
 Acercamiento a herramientas de analitica de negocios como Power BI, SQL, Phyton y R
-# Eyyyyy que más
-## Soy Santi Londoño
-### UEC
-#### De bogotá al mundo
-##### Hola mundo 5
-###### Hola mundo 6
+# Administrador de empresas
+## Santiago Londoño
+### Universidad Externado de Colombia
+#### Bodotá, Colombia
+##### Interesado en las herramientas de analitica de datos como Power BI, SQL, etc.
+###### Analisis de datos | Marketing digital | Estrategía | Sostenibilidad
 
 
 # **Este es mi primer repositorio en GITHUB**
